@@ -40,4 +40,8 @@ I'm Syntax (he/him) - I'm a full stack developer, bot developer, UI/UX designer,
     <a href="https://lua.org">
         <img src="https://skillicons.dev/icons?i=lua&theme=dark" height="25" width="25"></a>
     </a>
+      </a>
+    <a href="https://php.net">
+        <img src="https://skillicons.dev/icons?i=php&theme=dark" height="25" width="25"></a>
+    </a>
 </div>
