@@ -1,16 +1,41 @@
-## Hi there 👋
-
-<!--
-**1977Syntax/1977Syntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey There! 👋
+I'm Syntax (he/him) - I'm a full stack developer, bot developer, UI/UX designer, roblox developer, and a college student. I'm interested in development, moderation, and buildling thriving online communites. I work on projects in my free time, a lot involving web developing, bot developing, discord developing, and roblox.
+<div align="center" id="languages">
+    <h3>
+        L A N G U A G E S
+    </h3>
+    <a href="https://learn.microsoft.com/dotnet/csharp">
+        <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="25" width="25"></a>
+    <a href="https://cplusplus.com/">
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="25" width="25"></a>
+    </a>
+      <a href="https://www.programiz.com/c-programming">
+        <img src="https://skillicons.dev/icons?i=c&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://www.w3.org/css">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://www.w3.org/html">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://java.com">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://developer.mozilla.org/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://mysql.com">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="25" width="25"></a>
+    <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://python.org">
+        <img src="https://skillicons.dev/icons?i=py&theme=dark" height="25" width="25"></a>
+    </a>
+    <a href="https://lua.org">
+        <img src="https://skillicons.dev/icons?i=lua&theme=dark" height="25" width="25"></a>
+    </a>
+</div>
