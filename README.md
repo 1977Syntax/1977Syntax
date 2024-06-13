@@ -4,6 +4,8 @@ I'm Syntax (he/him) - I'm a full stack developer, bot developer, UI/UX designer,
     <h3>
         L A N G U A G E S
     </h3>
+    <a href="https://www.swift.org/">
+        <img src="https://skillicons.dev/icons?i=swift&theme=dark" height="25" width="25"></a>
     <a href="https://learn.microsoft.com/dotnet/csharp">
         <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="25" width="25"></a>
     <a href="https://cplusplus.com/">
