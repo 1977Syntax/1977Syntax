@@ -1,5 +1,5 @@
 # Hey There! 👋
-I'm Blecus (he/him) - I'm a full stack developer, bot developer, UI/UX designer, roblox developer, and a college student. I'm interested in development, moderation, and buildling thriving online communites. I work on projects in my free time, a lot involving web developing, bot developing, discord developing, and roblox.
+I'm Blecus (he/him) - I'm a full stack developer, bot developer, UI/UX designer, and a roblox developer. I'm interested in development, moderation, and buildling thriving online communites. I work on projects in my free time, a lot involving web developing, bot developing, discord developing, and roblox.
 <div align="center" id="languages">
     <h3>
         L A N G U A G E S
