@@ -35,6 +35,8 @@ I'm Goodvibes (he/him) - I'm a full stack developer, bot developer, UI/UX design
         <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="25" width="25"></a>
     </a>
     <a href="https://python.org">
+
+        Known as GamerOkami, 1977Syntax, and Gøødvibes.
         <img src="https://skillicons.dev/icons?i=py&theme=dark" height="25" width="25"></a>
     </a>
     <a href="https://lua.org">
