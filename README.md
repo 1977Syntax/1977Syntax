@@ -1,5 +1,5 @@
 # Hey There! 👋
-I'm Goodvibes (he/him) - I'm a full stack developer, bot developer, UI/UX designer, and a roblox developer. I'm interested in development, moderation, and buildling thriving online communites. I work on projects in my free time, a lot involving web developing, bot developing, and roblox scripting. Im known as GamerOkami, 1977Syntax, and Gøødvibes.
+I'm Goodvibes (he/him), also known as GamerOkami, 1977Syntax, and Gøødvibes. I specialize in cyber security, full stack development (both frontend and backend), bot development, and UI/UX design. Beyond my technical skills, I enjoy exploring innovative blockchain solutions and contributing to open-source projects. In my spare time, I mentor aspiring developers and stay updated on emerging trends in software development.
 <div align="center" id="languages">
     <h3>
         L A N G U A G E S
