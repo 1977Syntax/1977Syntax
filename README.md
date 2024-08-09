@@ -1,7 +1,5 @@
 # Hey There! 👋
 I'm 1977Syntax (he/him), I specialize in cyber security, full stack development (both frontend and backend), bot development, and UI/UX design. Additionally, I also develop iOS and Android apps. Beyond my technical skills, I enjoy contributing to open-source projects. In my spare time, I mentor aspiring developers and stay updated on emerging trends in software development.
-
-Krypton Roblox iOS/PC Executor - 98% UNC
 <div align="center" id="languages">
     <h3>
         L A N G U A G E S
