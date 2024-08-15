@@ -1,7 +1,11 @@
 # Hey There! 👋
 I'm 1977Syntax (he/him), I specialize in cyber security, full stack development (both frontend and backend), bot development, and UI/UX design. Additionally, I also develop iOS and Android apps. Beyond my technical skills, I enjoy contributing to open-source projects. In my spare time, I mentor aspiring developers and stay updated on emerging trends in software development.
 
-Developer @ ESign (made their IPA Signing Tool)
+Owner @ StartingWare - 2K (wind executor discord server)
+Co-Owner & Developer @ Nexam - 11K (blade ball and rivals script)
+Co-Owner & Developer @ Zomex - 1K (upcoming iOS, Windows, and Android Executor)
+Co-Owner & Developer @ ESign (#1 iOS IPA Signing Tool) - discord server soon
+Developer @ InfiniX - 4K (#1 rivals script)
 <div align="center" id="languages">
     <h3>
         L A N G U A G E S
