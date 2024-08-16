@@ -7,7 +7,7 @@ Co-Owner & Developer @ Nexam - 11K (blade ball and rivals script)
 
 Co-Owner & Developer @ Zomex - 1K (upcoming iOS, Windows, and Android Executor)
 
-Co-Owner & Developer @ ESign (#1 iOS IPA Signing Tool) - discord server soon
+Lead Developer @ ESign (#1 iOS IPA Signing Tool) - discord server soon
 
 Developer @ Speed Hub X - 10K (#1 roblox bloxfruits script)
 
