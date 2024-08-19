@@ -9,8 +9,6 @@ Co-Owner & Developer @ Zomex - 1K (upcoming iOS, Windows, and Android Executor)
 
 Lead Developer @ ESign (#1 iOS IPA Signing Tool) - discord server soon
 
-Administrator @ Krucus - 3.5K (100% UNC roblox windows executor)
-
 Developer @ Speed Hub X - 10K (#1 roblox bloxfruits script)
 
 Developer @ InfiniX - 4K (#1 rivals script)
