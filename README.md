@@ -3,8 +3,6 @@ I'm 1977Syntax (he/him), I specialize in cyber security, reverse engineering, an
 
 Owner @ StartingWare - 2K (wind executor discord server)
 
-Co-Owner & Developer @ Nexam - 11K (blade ball and rivals script)
-
 Co-Owner & Developer @ Zomex - 1K (upcoming iOS, Windows, and Android Executor)
 
 Lead Developer @ ESign (#1 iOS IPA Signing Tool) - discord server soon
