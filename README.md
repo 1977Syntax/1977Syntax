@@ -48,6 +48,8 @@ Developer @ InfiniX - 4K (#1 rivals script)
     <a href="https://python.org">
         <img src="https://skillicons.dev/icons?i=py&theme=dark" height="25" width="25"></a>
     </a>
+
+    Some of these arent langauges btw I just added them cuz I know it well
     <a href="https://lua.org">
         <img src="https://skillicons.dev/icons?i=lua&theme=dark" height="25" width="25"></a>
     </a>
