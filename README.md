@@ -1,5 +1,5 @@
 # Hey There! 👋
-I'm 1977Syntax (he/him), I specialize in cyber security, reverse engineering, and full stack development (both frontend and backend), bot development, and UI/UX design. Additionally, I also develop iOS, PC, and Android apps. Beyond my technical skills, I enjoy contributing to open-source projects.
+I'm Rachan (he/him), I specialize in cyber security, reverse engineering, and full stack development (both frontend and backend), bot development, and UI/UX design. Additionally, I also develop iOS, PC, and Android apps. Beyond my technical skills, I enjoy contributing to open-source projects.
 
 
 <div align="center" id="languages">
@@ -47,4 +47,3 @@ I'm 1977Syntax (he/him), I specialize in cyber security, reverse engineering, an
         <img src="https://skillicons.dev/icons?i=php&theme=dark" height="25" width="25"></a>
     </a>
 </div>
-Some of these arent languages btw I just added them because I know them well.
