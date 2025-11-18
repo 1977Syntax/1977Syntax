@@ -1,6 +1,4 @@
-# Hey There! 👋
-I'm Rachan (he/him), I specialize in cyber security, reverse engineering, and full stack development (both frontend and backend), bot development, and UI/UX design. Additionally, I also develop iOS, PC, and Android apps. Beyond my technical skills, I enjoy contributing to open-source projects.
-
+🕵️‍♂️ ARMv8-A Reverse Engineer
 
 <div align="center" id="languages">
     <h3>
